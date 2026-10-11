@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/SagaInterface" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/SagaInterface/Tamanhos_e_CorDeFundo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/SagaInterface/Icones_Rotulos_Fontes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SagaInterface/Botao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SagaInterface/Exercicios" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
