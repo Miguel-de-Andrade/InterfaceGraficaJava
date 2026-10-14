@@ -9,6 +9,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src/SagaInterface/Icones_Rotulos_Fontes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/SagaInterface/Botao" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/SagaInterface/Exercicios" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SagaInterface/Exercicios/Slide55" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SagaInterface/Exercicios/Slide59e60" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SagaInterface/Senhas" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
