@@ -6,8 +6,8 @@ import java.awt.event.*;
 //Declara a classe ExemploJPasswordField que herda a classe JFrame
 public class ExemploJPasswordField extends JFrame {
 
-    //Declara o atributo caixa do tipo JPasswordField, pois vai ser uma
-    //caixa de texto para senha
+    //Declara o atributo caixa do tipo JPasswordField,
+    //pois vai ser uma caixa de texto para senha
     JPasswordField caixa;
 
     //Declara o atributo rotulo do tipo JLabel, que vai ser
@@ -18,8 +18,8 @@ public class ExemploJPasswordField extends JFrame {
     // configurações quando instanciarmos ele sem nenhum parâmetro
     public ExemploJPasswordField(){
 
-        //Chama o construtor da superclasse
-        //JFrame passando o título da janela
+        //Chama o construtor da superclasse JFrame
+        // passando o título da janela
         super("Exemplo com JPasswordField");
 
         //Pega o container de dentro da janela e guarda na variável tela
