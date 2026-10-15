@@ -52,7 +52,7 @@ public class Limpar extends JFrame {
                 new ActionListener() {
                     public void actionPerformed(ActionEvent e) {
 
-                        //Define os dois textos como nulos, e deixa o cursor com
+                        //Limpa as duas caixas de texto, e deixa o cursor com
                         //foco na primeira caixa de texto
                         texto1.setText(null);
                         texto2.setText(null);
@@ -76,7 +76,7 @@ public class Limpar extends JFrame {
 
     }
 
-    //Método main, que execvuta o programa
+    //Método main, que executa o programa
     public static void main(String[] args) {
 
         //Instancia um objeto da classe, que executa o construtor e abre a janela
